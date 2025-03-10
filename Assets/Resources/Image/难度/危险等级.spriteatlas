@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u5371\u9669\u7B49\u7EA7"
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: -3268734927780014468, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    - {fileID: 6444624343536254192, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    - {fileID: 8948758736957960849, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    - {fileID: 5887008125584019624, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    - {fileID: -3412502974370588672, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    - {fileID: -6938776999647704454, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 5887008125584019624, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  - {fileID: 8948758736957960849, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  - {fileID: 6444624343536254192, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  - {fileID: -3268734927780014468, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  - {fileID: -6938776999647704454, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  - {fileID: -3412502974370588672, guid: 9b571e8ab8a2e8a4fb5545543617abed, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u5371\u96693"
+  - "\u5371\u96692"
+  - "\u5371\u96691"
+  - "\u5371\u96690"
+  - "\u5371\u96695"
+  - "\u5371\u96694"
+  m_Tag: "\u5371\u9669\u7B49\u7EA7"
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
